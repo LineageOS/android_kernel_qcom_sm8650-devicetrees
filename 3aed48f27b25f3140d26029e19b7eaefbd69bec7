@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "025b0384_a7c57e8f",
+        "filename": "qcom/Makefile",
+        "patchSetId": 1
+      },
+      "lineNbr": 690,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-05-11T14:43:22Z",
+      "side": 0,
+      "message": "@mkbestas@lineageos.org this is needed; it seems it was removed accidentally.",
+      "revId": "3aed48f27b25f3140d26029e19b7eaefbd69bec7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
