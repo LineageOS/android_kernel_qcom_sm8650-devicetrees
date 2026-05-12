@@ -16,6 +16,23 @@
       "message": "Smoke test is fine on FP6",
       "revId": "4e146886d41b4de80f17ae1f5e19ed0839012136",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "37e02d99_d57b3057",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-05-12T17:10:28Z",
+      "side": 1,
+      "message": "Works fine on OP12 too",
+      "revId": "4e146886d41b4de80f17ae1f5e19ed0839012136",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
